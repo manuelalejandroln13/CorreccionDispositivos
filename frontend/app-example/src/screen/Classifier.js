@@ -95,7 +95,7 @@ const Classifier = () => {
 
         // Call classifier API
         const classifierResponse = await fetch(
-          "http://192.168.100.46:3001/classifier",
+          "http://192.168.1.159:3000/classifier",
           {
             method: "POST",
             headers: {
