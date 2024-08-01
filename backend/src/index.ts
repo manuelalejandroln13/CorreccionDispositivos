@@ -26,8 +26,8 @@ app.use(
 let names = [
   {
     id: uuidv4(),
-    firstName: "Erick",
-    lastName: "Gordillo",
+    firstName: "Manuel",
+    lastName: "López",
   },
 ];
 
